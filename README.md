@@ -64,3 +64,4 @@ Although intended for use with the companion articles, you can perform the follo
 This section contain's my personal notes.
 Two task definition (yaml) files were deleted.
 Changed ACR Task build tag to v01.
+Then change teh tag back to {{.Run.ID}}
